@@ -8,8 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/nivemukr09"></a>
-  <a href="https://linkedin.com/in/adityajaiswal7">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
+  <a href="https://linkedin.com/in/nivedha-muthu-krishnan">
   </a>
 </p>
 
