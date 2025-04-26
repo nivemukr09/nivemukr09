@@ -71,7 +71,9 @@
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nivemukr09&limit=5&theme=flat&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=nivemukr09&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="Nivedha's Contribution Stats" />
+</p>
 
 ---
 
