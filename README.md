@@ -56,7 +56,12 @@
 
 <p><img align="left" src="https://git-hub-streak-stats.vercel.app?user=nivemukr09&theme=merko&hide_border=true" alt="Top Langs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiswaladi246&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
+<p>&nbsp;
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=nivemukr09&show_icons=true&locale=en&theme=vue&hide_border=true" 
+       alt="Nivedha's GitHub Stats" />
+</p>
+
 
 ---
 ### 🔥 GitHub Contribution Streak
