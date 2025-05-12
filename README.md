@@ -53,28 +53,21 @@
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
 </p>
-<!-- GitHub Streak Stats (aligned left) -->
-<p>
-  <img align="left" 
-       src="https://git-hub-streak-stats.vercel.app?user=nivemukr09&theme=merko&hide_border=true" 
-       alt="GitHub Streak Stats" />
-</p>
 
-<!-- GitHub General Stats (aligned center) -->
-<p>&nbsp;</p> <!-- Spacer to prevent overlap -->
-<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivemukr09&layout=compact&theme=merko" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nivemukr09&show_icons=true&theme=merko" />
+
+<p>&nbsp;
   <img align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=nivemukr09&show_icons=true&locale=en&theme=merko&hide_border=true" 
+       src="https://github-readme-stats.vercel.app/api?username=nivemukr09&show_icons=true&locale=en&theme=vue&hide_border=true" 
        alt="Nivedha's GitHub Stats" />
 </p>
 
----
 
+---
 ### 🔥 GitHub Contribution Streak
 
-<!-- Streak badge (static text badge for visual flair) -->
 ![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
-
 
 ---
 
