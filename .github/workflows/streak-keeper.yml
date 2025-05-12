@@ -1,0 +1,22 @@
+name: Keep GitHub Streak Alive
+
+on:
+  schedule:
+    - cron: '0 2 * * *'  # Daily at 2 AM UTC
+  workflow_dispatch:
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v3
+
+      - name: Update streak file
+        run: |
+          echo "Last updated: $(date -u)" > .streak-keep
+          git config user.name "nivemukr09"
+          git config user.email "nivemuthu09@gmail.com"
+          git add .streak-keep
+          git commit -m "chore: daily streak update"
+          git push
