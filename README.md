@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Nivedha MuthuKrishnan</h1>
 
 <div align="center">
-  <img src="https://github.com/nivemukr09/nivemukr09/blob/0efbf675104d61c13c7897e4027ed66b58dee205/NMK%20LOGO.png" alt="NM Logo" width="200">
+  <img src="https://github.com/nivemukr09/nivemukr09/blob/0efbf675104d61c13c7897e4027ed66b58dee205/NMK%20LOGO.png" alt="NM Logo" width="400">
 </div>
 
 
