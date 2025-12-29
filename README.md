@@ -1,10 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Nivedha MuthuKrishnan</h1>
 
-<div align="center">
-  <img src="https://github.com/nivemukr09/nivemukr09/blob/0efbf675104d61c13c7897e4027ed66b58dee205/NMK%20LOGO.png" alt="NM Logo" width="400">
-</div>
-
-
 <h3 align="center">A passionate Senior DevOps Engineer. I work in Keras Global Ltd London and in my free time I do projects and enhance my portfolio</h3>
 
 <p align="center">
